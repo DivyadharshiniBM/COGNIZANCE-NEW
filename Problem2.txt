@@ -1,0 +1,31 @@
+Problem 2:
+
+Write pseudocode and flowchart for program that prints Nth fibonacci number.
+
+PSEUDOCODE:
+
+ * Start
+
+ * Declare N
+
+ * Input Value of N
+
+ * Declare i=-1 J=0, K=1, P=2
+
+ * Print  J, K
+
+ * If (P>N) then stop the program else
+
+ * Assign S= j + k
+
+ * Print S
+
+ * A=B
+
+ * B=S
+
+ * P=P + 1
+
+ * Print S
+
+ * Stop

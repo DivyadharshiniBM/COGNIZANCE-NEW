@@ -1,0 +1,21 @@
+PROBLEM -1:
+
+Write pseudocode and flowchart for a program that outputs ‘True’ if a given number is divisible by 3 and ‘False’ otherwise, 
+without using the ‘%’ operator explicitly (like N % 3 == 0).
+
+SOLUTION:
+
+PSEUDOCODE:
+
+* First get the number from the user
+ 1] IF THE NUMBER IS +VE :
+
+* keep on subtracting 3 and check if it becomes 0 before becoming -ve.
+
+* keep on subtracting multiples of 3 and return true if it becomes 0. Return false if it becomes -2, -1, 0, 1, 2.
+
+* change the base to 3 and see if its last digit becomes 0.
+
+ 2] IF THE NUMBER IS -VE :
+
+*multiply it by -1 and follow above steps
